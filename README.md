@@ -47,6 +47,13 @@ The dashboard combines:
 
 ---
 
+## 📄 Project Presentation
+
+[View the full project slide deck (PDF)](./Telco_Customer_Churn_Analysis.pdf)
+
+
+---
+
 ## 📫 Connect with me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/rathwaj21)

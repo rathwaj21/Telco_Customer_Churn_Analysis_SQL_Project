@@ -29,7 +29,7 @@ It’s designed to showcase end-to-end data skills — from querying to insight 
 
 ## 📊 Tableau Dashboard
 
-🔗 [**View the Dashboard on Tableau Public**] (https://public.tableau.com/app/profile/jay.rathwa/viz/Telco_Cus_Churn/Dashboard1?publish=yes)
+🔗 [**View the Dashboard on Tableau Public**](https://public.tableau.com/app/profile/jay.rathwa/viz/Telco_Cus_Churn/Dashboard1?publish=yes)
 
 The dashboard combines:
 - **KPI Pie Chart:** Overall churn rate.
